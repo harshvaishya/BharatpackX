@@ -23,7 +23,7 @@ Explore the BharatpackX interactive web prototype.
   </a>
 </p>
 
-**Prototype:** [Open BharatpaclX Web App](https://ai.studio/apps/61a361d1-f821-443f-9b6a-d873c0e1a754)
+**Prototype:** [Open BharatpackX Web App](https://ai.studio/apps/61a361d1-f821-443f-9b6a-d873c0e1a754)
 
 ---
 ## 🎥 Project Demo
