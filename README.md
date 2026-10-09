@@ -13,6 +13,19 @@ AI-assisted packaging recommendations based on food commodity properties, packag
 
 </div>
 
+## 🌐 Project Prototype
+
+Explore the BharatpackX interactive web prototype.
+
+<p align="center">
+  <a href="https://ai.studio/apps/61a361d1-f821-443f-9b6a-d873c0e1a754">
+    <img src="https://img.shields.io/badge/🚀_Launch-Interactive_Prototype-0A66FF?style=for-the-badge" alt="Launch NEXTORM Prototype">
+  </a>
+</p>
+
+**Prototype:** [Open BharatpaclX Web App](https://ai.studio/apps/61a361d1-f821-443f-9b6a-d873c0e1a754)
+
+---
 ## 🎥 Project Demo
 
 [![Watch BharatPackX Demo on YouTube](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?logo=youtube&logoColor=white)](YOUR_YOUTUBE_VIDEO_LINK)
